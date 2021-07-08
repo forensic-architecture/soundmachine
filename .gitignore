@@ -10,7 +10,7 @@ node_modules
 *.js.map
 
 # Source data
-server/data/*
+server/data/histogram.json
 server/data/reduced.json
 server/data/events.json
 
