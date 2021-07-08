@@ -1,0 +1,26 @@
+{
+  "name": "enomachine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon send-to-ableton.js --loop --duration 300 --notes \"./notes.json\"",
+    "preprocess": "node preprocess.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "d3": "^6.7.0",
+    "node-fetch": "^2.6.1",
+    "nodemon": "^2.0.7"
+  },
+  "dependencies": {
+    "ableton-js": "^1.14.4",
+    "easymidi": "^2.0.4",
+    "liveosc": "0.0.2",
+    "socket.io": "^4.1.1",
+    "yargs": "^17.0.1"
+  }
+}

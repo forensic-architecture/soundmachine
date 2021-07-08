@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Physical",
+    "channel": 2,
+    "children": {
+      "Assassination": {
+        "note": 0,
+        "duration": 5000
+      },
+      "Assault": {
+        "note": 48,
+        "duration": 4000
+      },
+      "N/A": {
+        "note": 60,
+        "duration": 800
+      },
+      "Fleeing or moving": {
+        "note": 12,
+        "duration": 5000
+      },
+      "Lawsuit": {
+        "note": 24,
+        "duration": 5000
+      },
+      "Email/ Meeting": {
+        "note": 36,
+        "duration": 4000
+      }
+    }
+  },
+  {
+    "name": "Digital",
+    "channel": 3,
+    "children": {
+      "One Click Successful": {
+        "note": 0,
+        "duration": 4000
+      },
+      "Network injection": {
+        "note": 12,
+        "duration": 3000
+      },
+      "Exposure": {
+        "note": 24,
+        "duration": 5000
+      },
+      "Corporate Transactions": {
+        "note": 36,
+        "duration": 4000
+      },
+      "One Click Attempt": {
+        "note": 48,
+        "duration": 5000
+      },
+      "Zero Click Successful": {
+        "note": 72,
+        "duration": 3000
+      },
+      "Zero Click Attempt": {
+        "note": 60,
+        "duration": 4000
+      }
+    }
+  }
+]

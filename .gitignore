@@ -1,0 +1,34 @@
+# Mac
+.DS_Store
+
+# Neovim
+tags
+
+# Javascript
+visuals/dist
+node_modules
+*.js.map
+
+# Source data
+server/data/*
+server/data/reduced.json
+server/data/events.json
+
+# Ableton
+ableton/
+*.amxd
+
+# Max/MSP
+*.maxproj
+
+# Assets placed here
+assets/ambience
+assets/audio
+assets/points
+assets/videos
+
+# Sound Fonts
+*.sf2
+
+# Folder containing bounced tracks from Ableton
+out/

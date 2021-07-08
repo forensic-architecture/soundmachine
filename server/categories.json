@@ -1,0 +1,192 @@
+[
+  {
+    "name": "Assassination",
+    "category": "Physical",
+    "rgba": "rgba(255, 8, 0, 1)",
+    "opacity": 1,
+    "rgb": "rgb(255, 8, 0)",
+    "audio": "ATTACKS A1_1.aif",
+    "volume": 1
+  },
+  {
+    "name": "Assault",
+    "category": "Physical",
+    "rgba": "rgba(255, 8, 0, .5)",
+    "opacity": 0.5,
+    "rgb": "rgb(255, 8, 0)",
+    "audio": "ATTACKS A2_1.aif",
+    "volume": 0.2
+  },
+  {
+    "name": "Imprisonment",
+    "category": "Physical",
+    "rgba": "rgba(255, 8, 0, .5)",
+    "opacity": 0.5,
+    "rgb": "rgb(255, 8, 0)",
+    "audio": "ATTACKS A3_1.aif",
+    "volume": 0.2
+  },
+  {
+    "name": "Fleeing or moving",
+    "category": "Physical",
+    "rgba": "rgba(255, 8, 0, .35)",
+    "opacity": 0.35,
+    "rgb": "rgb(255, 8, 0)",
+    "audio": "ATTACKS A4_1.aif",
+    "volume": 0.2
+  },
+  {
+    "name": "Lawsuit",
+    "category": "Physical",
+    "rgba": "rgba(255, 8, 0, .35)",
+    "opacity": 0.35,
+    "rgb": "rgb(255, 8, 0)",
+    "audio": "ATTACKS A6_1.aif",
+    "volume": 0.2
+  },
+  {
+    "name": "Email/ Meeting",
+    "category": "Physical",
+    "rgba": "rgba(255, 166, 0, .75)",
+    "opacity": 0.75,
+    "rgb": "rgb(255, 166, 0)",
+    "audio": "ATTACKS A5_1.aif",
+    "volume": 0.2
+  },
+  {
+    "name": "One Click Attempt",
+    "category": "Infection",
+    "rgba": "rgba(4, 129, 255, .6)",
+    "opacity": 0.6,
+    "rgb": "rgb(4, 129, 255)",
+    "audio": "ATTACKS B 1_1.aif",
+    "volume": 0.7
+  },
+  {
+    "name": "One Click Successful",
+    "category": "Infection",
+    "rgba": "rgba(4, 129, 255, 1)",
+    "opacity": 1,
+    "rgb": "rgb(4, 129, 255)",
+    "audio": "ATTACKS B 2_1.aif",
+    "volume": 0.7
+  },
+  {
+    "name": "Zero Click Attempt",
+    "category": "Infection",
+    "rgba": "rgba(4, 129, 255, .6)",
+    "opacity": 0.6,
+    "rgb": "rgb(4, 129, 255)",
+    "audio": "ATTACKS B 3_1.aif",
+    "volume": 0.7
+  },
+  {
+    "name": "Zero Click Successful",
+    "category": "Infection",
+    "rgba": "rgba(4, 129, 255, 1)",
+    "opacity": 1,
+    "rgb": "rgb(4, 129, 255)",
+    "audio": "ATTACKS B 4_1.aif",
+    "volume": 0.7
+  },
+  {
+    "name": "Network injection",
+    "category": "Infection",
+    "rgba": "rgba(4, 129, 255, .6)",
+    "opacity": 0.6,
+    "rgb": "rgb(4, 129, 255)",
+    "audio": "",
+    "volume": ""
+  },
+  {
+    "name": "N/A",
+    "category": "Infection",
+    "rgba": "rgba(150, 150, 150, .6)",
+    "opacity": 0.6,
+    "rgb": "rgb(150, 150, 150)",
+    "audio": "",
+    "volume": ""
+  },
+  {
+    "name": "Corporate Transactions",
+    "category": "Contextual",
+    "rgba": "rgba(0, 255, 136, 1)",
+    "opacity": 1,
+    "rgb": "rgb(0, 255, 136)",
+    "audio": "excess of signals_1.aif",
+    "volume": 0.3
+  },
+  {
+    "name": "Export License",
+    "category": "Contextual",
+    "rgba": "rgba(0, 255, 136, 1)",
+    "opacity": 1,
+    "rgb": "rgb(0, 255, 136)",
+    "audio": "",
+    "volume": ""
+  },
+  {
+    "name": "Contract",
+    "category": "Contextual",
+    "rgba": "rgba(0, 255, 136, 1)",
+    "opacity": 1,
+    "rgb": "rgb(0, 255, 136)",
+    "audio": "excess of signals_1.aif",
+    "volume": 0.3
+  },
+  {
+    "name": "Contract Revocation",
+    "category": "Contextual",
+    "rgba": "rgba(0, 255, 136, 1)",
+    "opacity": 1,
+    "rgb": "rgb(0, 255, 136)",
+    "audio": "",
+    "volume": ""
+  },
+  {
+    "name": "Invoice",
+    "category": "Contextual",
+    "rgba": "rgba(0, 255, 136, 1)",
+    "opacity": 1,
+    "rgb": "rgb(0, 255, 136)",
+    "audio": "excess of signals_1.aif",
+    "volume": 0.3
+  },
+  {
+    "name": "Exposure",
+    "category": "Contextual",
+    "rgba": "rgba(234, 0, 255, 1)",
+    "opacity": 1,
+    "rgb": "rgb(234, 0, 255)",
+    "audio": "excess of signals_1.aif",
+    "volume": 0.3
+  },
+  {
+    "name": "Lawsuits vs NSO",
+    "category": "Contextual",
+    "rgba": "rgba(234, 0, 255, 1)",
+    "opacity": 0.35,
+    "rgb": "rgb(234, 0, 255)",
+    "audio": "excess of signals_1.aif",
+    "volume": 0.3
+  },
+  {
+    "name": "Unknown",
+    "category": "Contextual",
+    "rgba": "rgba(127, 127, 127, .7)",
+    "opacity": 0.7,
+    "rgb": "rgb(127, 127, 127)",
+    "audio": "",
+    "volume": ""
+  },
+  {
+    "name": "",
+    "category": "",
+    "rgba": "",
+    "opacity": "",
+    "rgb": "",
+    "audio": "",
+    "volume": "",
+    "tooltip": ""
+  }
+]

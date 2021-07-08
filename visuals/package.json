@@ -1,0 +1,24 @@
+{
+  "name": "enomachine_visuals",
+  "version": "0.0.1",
+  "description": "Visual studies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node build.js -build",
+    "start": "node build.js -watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "servor": "^4.0.2"
+  },
+  "dependencies": {
+    "d3": "^6.7.0",
+    "esbuild": "^0.11.20",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "socket.io-client": "^4.1.1"
+  }
+}
