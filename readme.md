@@ -10,6 +10,8 @@ The core of this system is a server that translates temporal data to MIDI codes 
 
 In the `visuals` folder of is also an application that provides a 'debug' view of the software. It uses WebSockets to communicate with the Node.js audio server and the displays the messages visually in a React-based front-end.
 
+![](docs/assets/img/002.png)
+
 ![](https://fa-public-assets.fra1.cdn.digitaloceanspaces.com/DigitalViolence/soundmachine_debug.gif)
 
 ### Running
