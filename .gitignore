@@ -5,7 +5,8 @@
 tags
 
 # Javascript
-visuals/dist
+visuals/dist/*
+!visuals/dist/index.html
 node_modules
 *.js.map
 
